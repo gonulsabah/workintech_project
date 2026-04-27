@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-from data import Olist
-from utils import haversine_distance
+from olist.data import Olist
+from olist.utils import haversine_distance
 
 class Order():
     def __init__(self):
