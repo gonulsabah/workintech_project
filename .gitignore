@@ -22,5 +22,12 @@ mlruns
 # IDE #
 *.vscode
 
+# Data #
+data/
+# veya tüm data klasörleri için:
+**/data/
+
+# Challengify #
+*_challengify*
 # Challengify - test challengification files
 *_challengify*
